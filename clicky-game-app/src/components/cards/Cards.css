@@ -1,0 +1,5 @@
+.cards {
+    height: calc(100% / 3);
+    width: 25%;
+    border: solid 1px black;
+}

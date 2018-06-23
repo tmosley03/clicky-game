@@ -1,0 +1,51 @@
+[{
+        "id": "dog-01",
+        "url": "../src/images/dog-01.jpg",
+        "clicked": false
+    },
+    {
+        "id": "dog-02",
+        "url": "./src/images/dog-02.jpg",
+        "clicked": false
+    },
+    {
+        "id": "dog-03",
+        "url": "./src/images/dog-03.jpg",
+        "clicked": false
+    },
+    {
+        "id": "dog-04",
+        "url": "./src/images/dog-04.jpg",
+        "clicked": false
+    },
+    {
+        "id": "dog-05",
+        "url": "./src/images/dog-05.jpg",
+        "clicked": false
+    },
+    {
+        "id": "dog-06",
+        "url": "./src/images/dog-06.jpg",
+        "clicked": false
+    },
+    {
+        "id": "dog-07",
+        "url": "./src/images/dog-07.jpg",
+        "clicked": false
+    },
+    {
+        "id": "dog-08",
+        "url": "./src/images/dog-08.jpg",
+        "clicked": false
+    },
+    {
+        "id": "dog-09",
+        "url": "./src/images/dog-09.jpg",
+        "clicked": false
+    },
+    {
+        "id": "dog-10",
+        "url": "./src/images/dog-10.jpg",
+        "clicked": false
+    }
+]
